@@ -1,0 +1,15 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+* Some new skills I have learned are the superscript and delete tags. I knew some html already before starting the program, and this project got added after I had already been doing some other projects, but it was nice to practice rendering html from a mockup.
+
+* I think that learning the structure of a page has been easy. It is all boxes inside other boxes in my mind, and it is fun to try to put the puzzle together.
+
+* It has been difficult to learn about how many tags there are. It is nice to know we can just use the reference guides, like MDN, but it is still a lot of new content to try to absorb.
+
+* Using the internet for issues has been very helpful. This project hasn't seemed super hard at this point to me, but some of the later projects are more difficult, so I feel the problem solving strategies will come in handy then.
